@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Jelle 👋
 
-<!--
-**jelletreep/jelletreep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelle-treep-40199661/) 
+[![ORCID](https://img.shields.io/badge/ORCID-darkgreen?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-3196-7954)
+[![University profile](https://img.shields.io/badge/University_profile-FFCD00?style=flat-square&logo=gmail&logoColor=white)](https://www.uu.nl/staff/HJTreep)
 
-Here are some ideas to get you started:
+I’m a Research Engineer @UtrechtUniversity with a background in Movement Ecology and Earth Sciences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a Research Engineer I:
+- collaborate as a scientific programmer in research projects across domains
+- advice and support researchers on HPC systems
+- promote coding/software best practices in research @UtrechtUniversity
+
+
+💬 
+Find my email on my [UU profile page](https://www.uu.nl/staff/HJTreep)
+
