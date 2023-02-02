@@ -15,3 +15,20 @@ As a Research Engineer I:
 💬 
 Find my email on my [UU profile page](https://www.uu.nl/staff/HJTreep)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrechtuniversity&repo=animal-sounds&show_owner=true&bg_color=FFCD00&title_color=000000)](https://github.com/utrechtuniversity/animal-sounds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jelletreep&repo=patch-dispersal&theme=solarized-light)](https://github.com/jelletreep/patch-dispersal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jelletreep&repo=patch-dispersal&bg_color=FFCD00)](https://github.com/jelletreep/patch-dispersal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jelletreep&repo=patch-dispersal&title_color=000000&bg_color=FFCD00)](https://github.com/jelletreep/patch-dispersal)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=utrechtuniversity&repo=getting-started" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=utrechtuniversity&repo=animal-sounds" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
